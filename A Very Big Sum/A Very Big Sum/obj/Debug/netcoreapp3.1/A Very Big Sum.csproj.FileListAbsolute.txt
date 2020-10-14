@@ -1,0 +1,13 @@
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.exe
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.deps.json
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.runtimeconfig.json
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.runtimeconfig.dev.json
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.dll
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\bin\Debug\netcoreapp3.1\A Very Big Sum.pdb
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.csprojAssemblyReference.cache
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.AssemblyInfoInputs.cache
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.AssemblyInfo.cs
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.csproj.CoreCompileInputs.cache
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.dll
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.pdb
+C:\Users\Gulagtus\source\repos\A Very Big Sum\A Very Big Sum\obj\Debug\netcoreapp3.1\A Very Big Sum.genruntimeconfig.cache
